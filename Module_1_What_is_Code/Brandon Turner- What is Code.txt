@@ -1,0 +1,54 @@
+﻿* In your own words, what is a computer really doing whenever you type a letter on a
+keyboard? (150 words max)
+When you type, the computer responds to your signal, and stores it within a table of possible inputs. It then translates the signal and pulls a rendering of that same input as an image; a character from a font. 
+
+
+* In your own words, how do computers use input and output to create experiences? (250
+words max) 
+   Computers allow you to input and layer many instructions and operations to reproduce actions like typing words and numbers, and displaying images on a screen. Furthermore, computers can take these outputs as instructions to automate broader actions such as displaying to television and to phones as pictures, video and other applications.   
+
+
+* Explain why software products are essentially “infinitely reproducible nothings.” (150
+words max)
+
+
+   Software products are considered that way because they’re seen as integral tools that maintain a computers’ efficiency and value. They allow the automation of essential tasks like communicating online , but require their practicality to rise infinitely as technology advances. This allows the market to be flooded with a wide-array of software products that aim to be able to do everything for you. 
+
+
+* Explain in your own words how code becomes software. (150 words max)
+   Code becomes software by way of compiling keywords into a language readable for computers to understand. These codes become instructions for the computer to perform various tasks through manipulating characters, files and pixels.
+
+
+* Explain “algorithms” in your own words. (150 words max) 
+   Algorithms are a type of software that can be used to solve problems . They are used to organize a set of codes or words that act as instructions that can simply be reused and reapplied.
+
+
+* Explain the DRY principle. (100 words max)
+   The DRY principle stands for “Don’t Repeat Yourself”. It teaches programmers to create streamlined code. It means, your software should be composed of algorithms that don’t repeat instructions and instead have the computer do the heavy lifting and make it easier for you.
+
+
+* In your own words, what is object-oriented programming? (100 words max)
+   Object oriented programming is a type of coding that breaks functions and algorithms into easy to digest tables of data.
+
+
+
+
+
+
+* In your own words explain data and how it relates to code. (100 Words max)
+    Data is information stored by your computer, anything from files to keystrokes and mouse-clicks.  Data relates to code because it's all the information a programmer uses and often tries to manipulate with their functions.
+
+
+* What is a framework? (150 words max)
+   A framework is a type of coding library. It features pre-made functions and allows programmers to target application specifics, like graphics , networking and web. It allows you to reuse common actions for streamlining your process.
+
+
+* What is debugging? (150 words max) 
+   Debugging is a way of examining and tweaking your code to make sure it doesn't crash or break, and run without errors. It's also a way of simply making your code run more efficiently.
+
+
+* Now, with more of an understanding of what code is, why do you want to learn how to
+code? (500 words max)
+
+
+I think the sheer possibilities are amazing when I hear about new technology. I’ve always wondered how things like video games work under the hood. I want to learn how to code because I love interactive experiences like movies and games. I want to be able to create fun and engaging interactions through technology and art. I’ve always been fascinated with how immersive a good movie or book can be so I aim to be able to make cool applications that push the envelope on entertainment.
