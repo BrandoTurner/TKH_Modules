@@ -1,0 +1,9 @@
+Git is version control system, a tool for managing your codebase and keeping track of changes. It allows a project to be worked on by more coders and have them updated to one central place. Different builds can be staged to a specific branches which can allow you to keep testing and finished features seperate.
+ GitHub is an online platform for uploading your git repo to the public. It acts as a server for all changes made to your code to be accessed by collaborators and contributors.
+
+The terminal is where we give commands to the computer to access files. It acts a more fine tuned way to control the file explorer. As a programmer , it's more efficient to communicate directly with the terminal using codes as opposed to the explorer GUI.
+
+Version control allows you to benefit in 3 ways;
+ Changes made to your code will be tracked over time can be monitored and timestamped.
+ You can roll back changes that aren't working properly to an earlier state and continue there.
+ You can have collaborators work on different features seperately and have them merge their changes to a master branch. 
